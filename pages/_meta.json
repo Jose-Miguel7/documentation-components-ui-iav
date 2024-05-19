@@ -1,13 +1,13 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Introducción",
+  "another": "Instalación",
+  "advanced": "Componentes",
   "about": {
-    "title": "About",
+    "title": "Acerca",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contacto ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
