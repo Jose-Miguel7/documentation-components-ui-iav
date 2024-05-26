@@ -4,11 +4,11 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Components UI iav</span>,
   project: {
-    link: 'https://github.com/Jose-Miguel7/componentes-ui-react',
+    link: 'https://github.com/Jose-Miguel7/documentation-components-ui-iav',
   },
-  docsRepositoryBase: 'https://github.com/Jose-Miguel7/componentes-ui-react',
+  docsRepositoryBase: 'https://github.com/Jose-Miguel7/documentation-components-ui-iav',
   footer: {
-    text: 'Todos los derechos reservados',
+    text: 'Todos los derechos reservados. Hecho con ❤️ por Jose Miguel Sandoval',
   },
   feedback: {
     content: '¿Quieres sugerir una mejora?',

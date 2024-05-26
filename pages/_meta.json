@@ -1,15 +1,4 @@
 {
   "index": "Introducción",
-  "another": "Instalación",
-  "advanced": "Componentes",
-  "about": {
-    "title": "Acerca",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contacto ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "advanced": "Componentes"
 }
